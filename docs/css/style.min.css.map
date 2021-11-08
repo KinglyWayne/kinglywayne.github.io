@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/wayne/Work/Documents/GitPages/kinglywayne.github.io",
+	"sourceRoot": "/Users/wayne/Qsync/codes/kinglywayne.github.io",
 	"sources": [
 		"themes/uBlogger/assets/css/style.scss",
 		"themes/uBlogger/assets/css/_variables.scss",
